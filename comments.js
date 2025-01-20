@@ -1,4 +1,4 @@
-// Create a web server that handles comments using a REST API
+// Create a web server 
 const express = require('express');
 const bodyParser = require('body-parser');
 
